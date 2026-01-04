@@ -13,7 +13,7 @@ Plataforma web integral para la administración de [Mencionar objetivo, ej: paci
 
 | Dashboard Principal | Formulario de Registro |
 | :---: | :---: |
-| <img src="./img/dashboard.jpg" width="400"> | <img src="./img/form.jpg" width="400"> |
+| <img src="./img/dashboard.jpg" width="400"> | <img src="./img/clientes.jpg" width="400"> |
 *(El diseño cuenta con interfaz amigable y validaciones en tiempo real)*
 
 ---
