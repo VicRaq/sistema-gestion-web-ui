@@ -31,4 +31,4 @@ Plataforma web integral para la administración de laboratorios universitarios d
 4. Abre `localhost/nombre-proyecto` en tu navegador.
 
 ---
-**Autor:** [Tu Nombre]
+**Autor:** Víctor Raquileo
