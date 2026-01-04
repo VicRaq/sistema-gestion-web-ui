@@ -1,11 +1,11 @@
-# Sistema de Gestión [Nombre] (PHP Fullstack) 💻🌐
+# Sistema de Gestión Sigelin (PHP Fullstack) 💻🌐
 
-Plataforma web integral para la administración de [Mencionar objetivo, ej: pacientes y citas]. Desarrollada con arquitectura nativa sin frameworks pesados para demostrar dominio de la lógica de programación.
+Plataforma web integral para la administración de laboratorios universitarios de computación. Desarrollada con arquitectura nativa sin frameworks pesados para demostrar dominio de la lógica de programación.
 
 ### 📺 Demo del Proyecto
 ¡Haz clic en la pantalla para ver el flujo completo del sistema!
 
-[![Video Demo]()
+[![Video Demo](https://youtu.be/UuXauFxqSsQ)
 
 ---
 
