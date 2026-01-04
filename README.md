@@ -5,7 +5,7 @@ Plataforma web integral para la administración de laboratorios universitarios d
 ### 📺 Demo del Proyecto
 ¡Haz clic en la pantalla para ver el flujo completo del sistema!
 
-[![Video Demo](https://youtu.be/UuXauFxqSsQ)
+[![Video Demo]](https://youtu.be/UuXauFxqSsQ)
 
 ---
 
