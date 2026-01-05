@@ -31,6 +31,7 @@ Plataforma web integral para la administración de laboratorios universitarios d
 4. Abre `localhost/nombre-proyecto` en tu navegador.
 
 ---
-**Autor:** Víctor Raquileo Rueda
-
-**Colaboradores:** 
+### 👥 Créditos y Roles
+Este proyecto fue un esfuerzo colaborativo:
+* **[Víctor Raquileo]:** Arquitectura del sistema, Lógica de Backend (PHP/MySQL) y conexión de base de datos.
+* **[Ángel Mendoza y Álvaro Bustos]** Diseño de interfaz y estilización (CSS/JS).
