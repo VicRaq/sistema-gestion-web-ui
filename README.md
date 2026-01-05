@@ -32,3 +32,5 @@ Plataforma web integral para la administración de laboratorios universitarios d
 
 ---
 **Autor:** Víctor Raquileo Rueda
+
+**Colaboradores:** 
